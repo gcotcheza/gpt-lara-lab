@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "gpt-lara-lab",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "A playground on integrating genAI like chatgpt in a laravel application",
     "keywords": ["laravel", "framework"],
     "license": "MIT",
     "require": {
